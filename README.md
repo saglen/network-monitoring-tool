@@ -19,4 +19,11 @@ git clone https://github.com/saglen/network-monitoring-tool.git
 cd network-monitoring-tool
 pip install -r requirements.txt  # Installs all dependencies
 python app.py  # Runs the application
-
+```
+## Screenshots
+- Dashboard
+![Dashboard](docs/dashboard.png)
+- Network Scanner
+![NetworkScanner](docs/networkscanner.png)
+- Scan History
+![ScanHistory](docs/scanhistory.png)
